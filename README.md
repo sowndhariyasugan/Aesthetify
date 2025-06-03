@@ -4,6 +4,7 @@ Aesthetify is a sleek and minimal Single Page Application (SPA) that lets users 
 
 ### 📁 Project Structure
 
+```text
 Aesthetify/
 ├── public/
 │   └── favicon.svg              # Project favicon
